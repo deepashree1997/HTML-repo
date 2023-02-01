@@ -1,0 +1,238 @@
+.nav-1 {
+  color: green;
+  font-size: 25px;
+}
+
+.nav-2 {
+  font-size: 25px;
+}
+/* /* .nav-4 .nav-5 .nav-3 {
+  color: greenyellow;
+  font-size: 20px; */
+/* .nav-4 .nav-5 .nav-6 { */
+/* color: greenyellow;
+  font-size: 10px;
+  margin: 10px;
+} */
+.nav-4 .nav-5 .nav-6 {
+  font-size: 15px;
+  margin: 10px 10px 10px 10px;
+}
+.nav-4 .nav-5 .nav-3 {
+  color: greenyellow;
+  margin: 10px 10px 10px 10px;
+  font-size: 15px;
+}
+.body-1 {
+  width: 100%;
+  height: 400px;
+}
+.body-2 {
+  margin: 20px 40px 20px 40px;
+  height: 300px;
+}
+.cmn-btn {
+  background-color: greenyellow;
+  border: 0;
+}
+.v-c {
+  height: 100%;
+  width: 100%;
+  border-radius: 50%;
+}
+.body-g {
+  color: greenyellow;
+}
+.bg {
+  justify-content: center;
+  padding: 10px;
+}
+.ju {
+  justify-content: space-between;
+}
+.cen-1 {
+  text-align: center;
+}
+.btnn {
+  justify-content: space-between;
+}
+.aaa {
+  justify-content: center;
+  align-self: center;
+  text-align: center;
+}
+.btn-1 {
+  background-color: greenyellow;
+  color: #fff;
+  border: 0;
+}
+.m-wid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+}
+.bg {
+  background-image: url(../img/gr.jpg);
+  width: 100%;
+}
+.text-1 {
+  color: #fff;
+}
+.p-c {
+  position: relative;
+}
+.h-1 {
+  position: absolute;
+  top: 89%;
+  left: 45%;
+}
+
+.p-c1 {
+  border-radius: 50%;
+  background-color: #fff;
+}
+.h-2 {
+  position: absolute;
+  top: 48%;
+  left: 45%;
+}
+.b-r {
+  border-radius: 80%;
+}
+.body-bg {
+  background-image: url(../img/red-grapes-bunch-vineyard-43613067.jpg);
+  width: 100%;
+  height: 100%;
+  color: #fff;
+}
+.body-bg2 {
+  background-image: url(../img/trees-3294681__480.jpg);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  color: #fff;
+}
+.f-1 {
+  font-size: 20px;
+  position: absolute;
+  top: 75%;
+  left: 26px;
+  color: #fff;
+}
+.l-1 {
+  padding: 10px 10px 10px 10px;
+  list-style: none;
+  text-align: center;
+}
+.po-1 {
+  height: 100%;
+  width: 100%;
+}
+.font-1 {
+  font-size: 18px;
+  color: #fff;
+  margin: 20px 10px 20px 10px;
+}
+.con-1 {
+  background-image: url(../img//1036023.jpg);
+  height: 100%;
+  width: 100%;
+  color: #fff;
+}
+.box-1 {
+  border: 1px solid black;
+  background-color: white;
+  height: 120px;
+  width: 100%;
+  margin: 50px 0px 50px 0px;
+  box-shadow: 80px;
+  text-align: center;
+}
+.mar {
+  font-size: 20px;
+}
+.mar-p {
+  margin: 50px 10px 50px 10px;
+  padding: 10px 10px 10px 10px;
+}
+.mar1 {
+  height: 100%;
+  width: 100%;
+  margin: 10px 10px 10px 10px;
+}
+
+.formValidation .has-error .help-block {
+  color: #d06868;
+  font-size: 12px;
+  line-height: 1.1;
+  font-style: italic;
+}
+.body-bg1 {
+  background-image: url(../img/pexels1-.jpeg);
+  width: 100%;
+  height: 100%;
+  color: #fff;
+}
+
+.f0-p {
+  font-size: 20px;
+}
+.foo-p {
+  font-size: 18px;
+}
+.foo-q {
+  font-size: 15px;
+}
+.foo-r {
+  font-size: 12px;
+}
+.vor-1 {
+  background-repeat: repeat;
+}
+.m-r {
+  margin: 10px 10px 10px 10px;
+}
+.bgg-1 {
+  background-image: url(../img/oranges.jpg);
+  width: 100%;
+  height: 100%;
+  background-repeat: repeat;
+}
+.hh {
+  width: 100%;
+  height: 465px;
+}
+.f00-h {
+  font-size: 35px;
+  font-family: normal;
+}
+.f-h {
+  font-family: arial;
+  font-size: 20px;
+}
+.f-hh {
+  font-family: arial;
+  font-size: 25px;
+}
+.m-1 {
+  margin: 40px 10px 40px 10px;
+}
+.ma-1 {
+  margin: 20px 20px 20px 30px;
+}
+.ma-2 {
+  margin: 50px 0px 50px 0px;
+}
+.ma-3 {
+  margin: 50px 0px 50px 50px;
+}
+.f-s {
+  font-size: 28px;
+}
+.ma-4 {
+  margin: 10px 50px 10px 50px;
+}
+.bo-1 {
+  box-shadow: none !important;
+}
