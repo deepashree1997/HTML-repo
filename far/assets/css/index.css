@@ -175,33 +175,130 @@ select {
   appearance: none;
   -webkit-border-radius: 0;
 }
-.nav-1 {
-  color: green;
-  margin: 10px 10px 10px 10px;
+/* .nav-1 {
+  color: #fff;
+  margin: 0px 10px 10px 10px;
   font-size: 18px;
   font-family: arial;
-}
-.nav-1 .nav-2 .nav-3 {
-  color: green;
+} */
+.nav-1 .nav-2 .nav-3 .nav-0 {
+  color: #fff;
   margin: 10px 10px 10px 10px;
   font-size: 18px;
   font-family: arial;
 }
 .nav-1 .nav-4 {
-  color: green;
+  color: #fff;
 }
 .s-1 {
   justify-content: center;
   align-self: center;
   text-align: center;
   margin: 50px 40px 50px 40px;
+  color: #fff;
 }
 .btn-1 {
   border-radius: 20px;
   margin: 30px 10px 30px 10px;
+  color: #fff;
 }
 .bg-1 {
-  background-image: url(../img/);
+  background-image: url(../img//modern.jpg);
+  height: 100%;
   width: 100%;
-  border-radius: 20px;
+  border-bottom-left-radius: 280px;
+  border-bottom-right-radius: 280px;
+}
+.s-2 {
+  color: #fff;
+}
+.s-3 {
+  margin: 50px 10px 50px 10px;
+  align-items: center;
+  align-self: center;
+  text-align: center;
+}
+.s-m {
+  margin: 20px 20px 20px 20px;
+}
+.v-1 {
+  width: 100%;
+  height: 320px;
+}
+.s-4 {
+  margin: 50px 50px 50px 50px;
+  padding: 0px 50px 0px 50px;
+}
+.s-p {
+  margin: 20px 0px 20px 0px;
+}
+.d-1 {
+  margin: 30px 0px 30px 0px;
+  display: flex;
+  justify-content: space-around;
+}
+.btn-2 {
+  border: 0;
+  background-color: aqua;
+  color: #fff;
+  border-radius: 32px;
+  border-top-left-radius: 20px !important;
+  border-bottom-left-radius: 20px !important;
+}
+.btn-3 {
+  border-radius: 52px;
+}
+
+.formValidation .has-error .help-block {
+  color: #d06868;
+  font-size: 12px;
+  line-height: 1.1;
+  font-style: italic;
+}
+.bg-2 {
+  background-color: greenyellow;
+  width: 100%;
+  height: 100%;
+}
+.b-1 {
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+}
+.i-1 {
+  font-size: 18px;
+  display: inline-block;
+  background: aqua;
+  line-height: 1;
+  padding: 11px 0 11px 0px;
+  margin: 0px 0px 0px 5px;
+  border-radius: 50%;
+  text-align: center;
+  width: 40px;
+  height: 40px;
+}
+.clr {
+  color: #fff;
+}
+.s-5 {
+  margin: 10px 40px 10px 40px;
+}
+.m-3 {
+  margin: 50px 0px 50px 0px;
+}
+.c-1 {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.mar {
+  margin: 0px 50px 0px 50px;
+}
+.mar-1 {
+  margin: 40px 10px 40px 10px;
+}
+/* .nav-0 {
+  color: #fff;
+} */
+.mar-5 {
+  margin: 30px 50px 30px 50px;
 }
