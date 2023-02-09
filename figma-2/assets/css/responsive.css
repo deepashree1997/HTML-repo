@@ -1,0 +1,45 @@
+/**********Mobile View CSS*******************/
+@media (max-width: 767px) {
+  .text1 {
+    font-size: 20px;
+    line-height: 20px;
+  }
+  .text3 {
+    font-family: arial;
+    font-size: 18px;
+  }
+  .btn-1 {
+    border-radius: 20px;
+    font-size: 11px;
+    padding: 5px;
+    color: #dc2fa1;
+    line-height: 15px;
+    background-color: #fff;
+  }
+  .text2 {
+    font-size: 20px;
+    font-family: arial;
+  }
+}
+/***********Tab View CSS *******************/
+@media (min-width: 768px) and (max-width: 991px) {
+  .text1 {
+    font-size: 25px;
+    line-height: 20px;
+  }
+  .text3 {
+    font-family: arial;
+    font-size: 22px;
+  }
+  .btn-1 {
+    padding: 10px;
+    border-radius: 25px;
+    background-color: #fff;
+    line-height: 25px;
+    font-size: 18px;
+  }
+  .text2 {
+    font-size: 23px;
+    font-family: arial;
+  }
+}
