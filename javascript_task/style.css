@@ -1,0 +1,14 @@
+.container {
+  text-align: center;
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 50px;
+}
+.m-1 {
+  margin-left: 50px;
+}
+.c {
+  text-align: center;
+}
